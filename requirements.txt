@@ -1,7 +1,6 @@
 datetime
 streamlit
 pandas
-appdirs
 yfinance
 pandas_datareader
 numpy
